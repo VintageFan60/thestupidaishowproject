@@ -1,0 +1,2 @@
+# thestupidaishowproject
+AI show project.
